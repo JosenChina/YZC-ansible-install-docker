@@ -1,5 +1,10 @@
 # YZC-ansible-install-docker
 
+## 安装包链接
+> 通过网盘分享的文件：docker_install.rar
+链接: https://pan.baidu.com/s/1IhUHCrcnkzusIXNsvD_Ksg 提取码: i524
+
+
 ## 使用方法
 ### 修改安装脚本对应参数
 修改`install_docker.yml`文件中的`arch`、`docker_registry`、`docker_data_root_dir`以修改安装包对应的cpu架构，docker安全仓库链接，docker数据目录。
